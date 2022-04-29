@@ -2,8 +2,8 @@
 * I'm Antonio, an italian (:it:) 25 y/o guy.
 * I'm currently working as an AI Research Scientist at [Altilia.ai](https://altilia.ai).
 * More info on my CV:
-<a href="TODO_link_to_english_CV"><img src="https://img.shields.io/badge/english version-C8102E?style=for-the-badge"></a>
-<a href="TODO_link_to_italian_CV"><img src="https://img.shields.io/badge/italian version-008C45?style=for-the-badge"></a>
+<a href="https://github.com/antoniolanza1996/antoniolanza1996/blob/main/CVs/CV_Antonio_Lanza_en.pdf"><img src="https://img.shields.io/badge/english version-C8102E?style=for-the-badge"></a>
+<a href="https://github.com/antoniolanza1996/antoniolanza1996/blob/main/CVs/CV_Antonio_Lanza_it.pdf"><img src="https://img.shields.io/badge/italian version-008C45?style=for-the-badge"></a>
 
 # :mailbox: How to reach me
 <a href="mailto:antoniolanza1996@gmail.com"><img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
