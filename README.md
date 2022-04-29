@@ -1,16 +1,17 @@
-### Hi there 👋
+# :book: About me
+* I'm Antonio, an italian (:it:) 25 y/o guy.
+* I'm currently working as an AI Research Scientist at [Altilia.ai](https://altilia.ai).
+* More info on my CV:
+<a href="TODO_link_to_english_CV"><img src="https://img.shields.io/badge/english version-C8102E?style=for-the-badge"></a>
+<a href="TODO_link_to_italian_CV"><img src="https://img.shields.io/badge/italian version-008C45?style=for-the-badge"></a>
 
-<!--
-**antoniolanza1996/antoniolanza1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :mailbox: How to reach me
+<a href="mailto:antoniolanza1996@gmail.com"><img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lanzaantonio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-Here are some ideas to get you started:
+# :construction: My GitHub activity
+[![Antonio Lanza's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniolanza1996&count_private=true&show_icons=true&theme=algolia)](https://github-readme-stats.vercel.app/api?username=antoniolanza1996&count_private=true&show_icons=true&theme=algolia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/search?o=desc&q=author%3Aantoniolanza1996+is%3Apr&s=updated"><img src="https://img.shields.io/badge/My pull requests-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/search?o=desc&q=author%3Aantoniolanza1996+is%3Aissue&s=updated"><img src="https://img.shields.io/badge/My opened issues-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/search?o=desc&q=commenter%3Aantoniolanza1996&s=updated"><img src="https://img.shields.io/badge/My comments-000000?style=for-the-badge&logo=github&logoColor=white"></a>
