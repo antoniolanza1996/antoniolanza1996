@@ -1,5 +1,5 @@
 # :book: About me
-* I'm Antonio, an italian (:it:) 25 y/o guy.
+* I'm Antonio, an italian (:it:) 26 y/o guy.
 * I'm currently working as an AI Research Scientist at [Altilia.ai](https://altilia.ai).
 * More info on my CV:
 <a href="https://github.com/antoniolanza1996/antoniolanza1996/blob/main/CVs/CV_Antonio_Lanza_en.pdf"><img src="https://img.shields.io/badge/english version-C8102E?style=for-the-badge"></a>
